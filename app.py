@@ -18,6 +18,7 @@ from dxf_plate import parse_dxf_plate_single_part_geometry, render_part_thumbnai
 # - Uses the existing calculation logic in logic.py
 # - Stores an in-progress estimate in st.session_state
 # - Optional password protection via Streamlit secrets
+# - 2.6.26 - Added plate nesting
 # ============================================================
 
 APP_TITLE = "Estimating Calculator(V4)"
