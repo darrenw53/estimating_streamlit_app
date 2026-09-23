@@ -42,7 +42,7 @@ WELD_DATA = {
     "3/8\" (0.380)": {"lbs_per_ft": 0.42, "in_per_hr": 96},
     "1/2\" (0.500)": {"lbs_per_ft": 0.77, "in_per_hr": 60},
     "5/8\" (0.625)": {"lbs_per_ft": 1.15, "in_per_hr": 52},
-    "3/4\" (0.750)": {"lbs_per_ft": 1.63, "in_per_hr": 60},
+    "3/4\" (0.750)": {"lbs_per_ft": 1.63, "in_per_hr": 36},
     "7/8\" (0.880)": {"lbs_per_ft": 2.25, "in_per_hr": 28},
     "1\" (1.000)": {"lbs_per_ft": 2.92, "in_per_hr": 20}
 }
